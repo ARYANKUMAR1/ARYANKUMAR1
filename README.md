@@ -107,23 +107,23 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusaryan&layout=compact&theme=dark" alt=tusaryan />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARYANKUMAR1&layout=compact&theme=dark" alt=ARYANKUMAR1 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=tusaryan&show_icons=true&locale=en&theme=dark" alt="tusaryan" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ARYANKUMAR1&show_icons=true&locale=en&theme=dark" alt="ARYANKUMAR1" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tusaryan&theme=dark" alt="tusaryan" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ARYANKUMAR1&theme=dark" alt="ARYANKUMAR1" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/tusaryan">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tusaryan&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tusaryan&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tusaryan&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tusaryan&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tusaryan&theme=2077" height="180em" />
+<a href="https://github.com/ARYANKUMAR1">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ARYANKUMAR1&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ARYANKUMAR1&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARYANKUMAR1&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ARYANKUMAR1&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARYANKUMAR1&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=tusaryan&theme=react-dark"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ARYANKUMAR1&theme=react-dark"/>
 
 
 
